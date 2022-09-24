@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 첫 포스팅
-subtitle: 그냥 블로그
+subtitle: 테스트 게시글
 comment: true
 tags: [그냥, 블로그, 만들어봄]
 ---
