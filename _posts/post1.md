@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 첫 포스팅
-subtitle: github blog test
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: 
+subtitle: 그냥 블로그
+comment: true
+tags: [그냥, 블로그, 만들어봄]
 ---
+
+첫 블로그 게시글 테스트
 
 ## 블로그 테스트
 ~~~
